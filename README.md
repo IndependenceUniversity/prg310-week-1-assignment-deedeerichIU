@@ -7,6 +7,7 @@ For this assignment, you will be creating a Body Mass Index Calculator. You will
   1. The first text box will be for your weight in pounds
   2. The second text box will be for your height in inches
   3. A label will be used for the results of the calculation
+  
 You will be using a Response.Write() statement to print the value of the weight, height, and BMI variables. For each of these
 statements, add sometime to explain what each value is for example;
 
