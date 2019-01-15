@@ -11,9 +11,9 @@
     int weight = 200;
     int height = 72;
     double bmi = (weight * 703) / (height * height);
-    Response.Write("<p>Your weight is " + weight + .<br />"); You have a missing quoutation mark
-    Response.Write("Your height is " + Height + ".<br />"); height is to be lower case
-    Response.Write("Your body mass index (BMI) is " + BMI + ".</p>"); BMI is lower cased
+    Response.Write("<p>Your weight is " + weight + ".<br />"); //You have a missing quoutation mark
+    Response.Write("Your height is " + height + ".<br />"); //height is to be lower case
+    Response.Write("Your body mass index (BMI) is " + bmi + ".</p>"); //BMI is lower cased
     
     
      %>
